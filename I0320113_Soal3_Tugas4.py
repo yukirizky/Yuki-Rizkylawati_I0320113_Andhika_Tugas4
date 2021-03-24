@@ -1,8 +1,8 @@
 a = int(input("Masukkan berat :"))
 b = 49
 
-hasil = a<=50
+hasil = a<=22
 print(hasil)
 
-hasil = b<=50
+hasil = b<=22
 print(hasil)
